@@ -1,1 +1,2 @@
 # odin-recipes
+Dit project betreft het maken van een website over een paar van mijn favoriete recepten. Om dit te realiseren pas ik de geleerde basiskennis over html toe. Dit betreft o.a. de html-boilerplate en enkele tags.
